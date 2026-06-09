@@ -1,4 +1,4 @@
-# Hi, I'm Nguyễn (Narie) 💻
+# Hi, I'm Nguyễn 💻
 
 A 2nd-year Computer Science student at HCMIU. Currently focused on mastering Core Computer Science fundamentals and practicing Data Structures & Algorithms.
 
